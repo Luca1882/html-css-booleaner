@@ -1,0 +1,13 @@
+/*CENTRAMENTO PAGINA*/
+body, html{
+    padding: 0;
+    margin: 0;
+}
+/*PROVA BONUS*/
+.box{
+    background-color: rgb(121, 189, 228);
+    background-image: url(../img/pattern.png);
+    background-size: repeat;
+    width: 100%;
+    height: 150px;
+}
