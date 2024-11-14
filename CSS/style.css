@@ -48,3 +48,14 @@ h1{
 #spessore-interno{
     padding: 15px;
 }
+
+/*COSTRUZIONE TABELLA*/
+#tabella{
+    background-color: rgb(121, 189, 228);
+    text-align: left;
+    color: white;
+ }
+ 
+ .back-color{
+     background-color: rgb(216, 230, 237);
+ }
