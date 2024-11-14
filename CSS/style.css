@@ -44,3 +44,16 @@ h1{
 .figure, img{
     margin-left: 0px;
 }
+
+/*UTILITY*/
+
+/*TESTO EVIDENZIATO*/
+.text-highilight{
+    background-color: rgb(205, 221, 33);
+}
+
+/*SPESSORE LISTA NON ORDINATA*/
+#spessore-interno{
+    padding: 15px;
+}
+
