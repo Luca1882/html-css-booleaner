@@ -39,3 +39,12 @@ h1{
     font-size: smaller;
     line-height: 0px;
 }
+
+/*TESTO EVIDENZIATO*/
+.text-highilight{
+    background-color: rgb(205, 221, 33);
+}
+/*SPESSORE LISTA*/
+#spessore-interno{
+    padding: 15px;
+}
